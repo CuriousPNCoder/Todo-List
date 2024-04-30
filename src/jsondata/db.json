@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Create react app",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Bug fixing",
+      "completed": false
+    }
+  ]
+}
